@@ -1,10 +1,12 @@
-# gan_project
+# gan project
 
 
 dcgan  | wngan | sngan
 ------ | ------|----------
 5.8    |       | 
    
+
+
 
 
 CIFAR 10:
