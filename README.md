@@ -49,7 +49,7 @@ MNIST
 
 
 
-**wgan:**
+**weight_gan:**
 
 
 
