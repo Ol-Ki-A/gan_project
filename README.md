@@ -21,6 +21,10 @@ CIFAR 10:
 
 
 
+**wgan:**
+
+![image](https://user-images.githubusercontent.com/85835776/164941410-f7b8f6a9-5f1f-4afc-9519-f09d09e28ca0.png)
+
 
 
 
