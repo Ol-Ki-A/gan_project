@@ -1,7 +1,7 @@
 # gan project
 
 
-dcgan  | wngan | sngan
+dcgan  |  wgan | sngan
 ------ | ------|----------
 5.8    | 6.01  | 
    
